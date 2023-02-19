@@ -427,7 +427,7 @@ nav {
     width: 140px;
     height: 140px;
     }
-    .product-detail {
+    #productDetail {
         width: 100%;
     }
 }
